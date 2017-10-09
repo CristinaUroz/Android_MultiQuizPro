@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start over</string>
+
+    <array name="all_questions">
+        <item>Quina és la capital de Bhutan?;Ouagadougou;Phnom Penh;*Thimphu;Zgighiti</item>
+        <item>Quan és 2 + 2?;3;*4;2;0</item>
+        <item>Què porta a la armadura la tonalitat de re menor?;res;2 sustinguts;6 sustinguts;*1 bemoll</item>
+    </array>
+
+</resources>
